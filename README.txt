@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDIVERGENTGIT%2Fhellogitworld.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDIVERGENTGIT%2Fhellogitworld?ref=badge_shield)
+
 This is a sample project students can use during Matthew's Git class.
 
 Here is an addition by me
@@ -13,3 +15,7 @@ As a quick reminder, this came from one of three locations in either SSH, Git, o
 We can, as an example effort, even modify this README and change it as if it were source code for the purposes of the class.
 
 This demo also includes an image with changes on a branch for examination of image diff on GitHub.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDIVERGENTGIT%2Fhellogitworld.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDIVERGENTGIT%2Fhellogitworld?ref=badge_large)
